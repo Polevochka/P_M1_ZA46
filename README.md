@@ -5,4 +5,4 @@
     массивах на обратный.
 
 ### Пример работы прораммы
-![Image alt](https://github.com/Polevochka/P_M1_ZA46/raw/master/img/lol.png)
+![Image alt](img/lol.png)
